@@ -3,7 +3,7 @@ import { BsFillTelephoneInboundFill } from "react-icons/bs";
 import { BsFillEnvelopeAtFill } from "react-icons/bs";
 import { ToastContainer, toast } from 'react-toastify';
 const Contact = () => {
-    const notify = () => toast('Sussfull your contact!');
+    const notify = () => toast('Successful your contact!');
     return (
         <div className='my-10 md:my-16'>
             <section className='gap-5  md:flex justify-around p-5 mx-auto md:max-w-4/5'>
